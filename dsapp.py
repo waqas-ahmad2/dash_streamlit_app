@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import plotly.express as px
-from dash import html,dcc
 
 st.set_page_config(layout='wide')
 
